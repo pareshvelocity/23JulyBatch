@@ -1,6 +1,5 @@
 The students name are:
 ashish
-ashok
 mohan
 radha
 ram
